@@ -4,6 +4,10 @@
     column-gap:15px;
     row-gap:30px;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
 @media (max-width:750px){
   .page{
     grid-template-columns: 1fr 1fr;
